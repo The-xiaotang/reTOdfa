@@ -1,4 +1,7 @@
 # reTOdfa - Regular Expression to Finite Automata Converter
+<img width="778" height="532" alt="屏幕截图 2025-11-20 205936" src="https://github.com/user-attachments/assets/04317d47-0bc9-4b66-b441-e7ed7c33f864" /><img width="779" height="535" alt="屏幕截图 2025-11-20 205954" src="https://github.com/user-attachments/assets/b6726e86-2c9f-4f76-b79f-9bb70e4398db" /><img width="778" height="533" alt="屏幕截图 2025-11-20 210013" src="https://github.com/user-attachments/assets/5d1c2dda-b917-40d2-8eec-600196943d27" />
+
+
 
 ## 项目简介
 
